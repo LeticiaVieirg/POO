@@ -11,3 +11,9 @@ O repositório da disciplina divide-se por unidades, com anotações e listas de
 - [Unidade 1](https://github.com/LeticiaVieirg/POO/tree/main/Unidade1);
 - [Unidade 2](https://github.com/LeticiaVieirg/POO/tree/main/Unidade2);
 - [Unidade 3](https://github.com/LeticiaVieirg/POO/tree/main/Unidade3).
+
+## 2. Extra
+
+Parte extra da disciplina que contém estudos iniciais, anteriores ao componente.
+
+- [Extra](https://github.com/LeticiaVieirg/POO/tree/main/extra)
