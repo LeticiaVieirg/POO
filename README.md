@@ -4,10 +4,10 @@
 ### PEX0130 - Programação Orientada a Objetos
 #### Bacharelado Interdisciplinar em Tecnologia da Informação - UFERSA
 
-#### Parte I 
+## 1. Organização do Repositório
 
-#### Parte II
+O repositório da disciplina divide-se por unidades, com anotações e listas de exercicios.
 
----
-#### Parte III
-
+- [Unidade 1](https://github.com/LeticiaVieirg/POO/tree/main/Unidade1);
+- [Unidade 2](https://github.com/LeticiaVieirg/POO/tree/main/Unidade2);
+- [Unidade 3](https://github.com/LeticiaVieirg/POO/tree/main/Unidade3).
