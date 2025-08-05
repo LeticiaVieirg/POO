@@ -2,7 +2,7 @@
 e imprime o equivalente a esse período expresso em valores inteiros para dias, horas e
 minutos. Ex.: 9257 minutos = 6 dias, 10 horas e 17 minutos. */
 
-package unidade1;
+package POO.Unidade1.introducao;
 
 import java.util.Scanner;
 
