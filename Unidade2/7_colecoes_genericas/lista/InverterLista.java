@@ -1,6 +1,6 @@
 import java.util.LinkedList;
 
-public class InverterLinkedList {
+public class InverterLista {
     public static void main(String[] args) {
         LinkedList<Character> lista = new LinkedList<>();
 
